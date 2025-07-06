@@ -1,4 +1,5 @@
 Project Summary
+
 Lopasa is a 2D platformer game developed as an SDE project using Unity. Inspired by classic arcade titles like Mario, the game challenges players to guide a fox named Lopasa through levels filled with obstacles, enemies, and collectibles. Features include:
 
 Smart Enemies: Dynamic behavior like jumping attacks.
